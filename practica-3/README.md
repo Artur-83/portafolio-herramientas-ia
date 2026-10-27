@@ -17,12 +17,12 @@
 ## 👥 Integrantes
 
   
-| Nombre                     | Matricula |
-| :------------------------- | --------- |
-| José Arturo Amaro Casillas | 198131-7  |
-| Paola Romina Meza Lopez    | 198070-8  |
-| Fernanda Montes Negrete    | 198183-9  |
-| Ian Alejandro Maciel Romo  | 198165-2  |
+| Nombre                     |
+| :------------------------- |
+| José Arturo Amaro Casillas |
+| Paola Romina Meza Lopez    |
+| Fernanda Montes Negrete    |
+| Ian Alejandro Maciel Romo  |
 
 ## 1. Caso de uso
 
@@ -94,4 +94,4 @@ $$
 
 ## 5. Evidencia
 
-![Model Card](file:///C:/Users/198131-7/Pictures/y45hIMNREW7w_XpHYB_0q.png)
+![Model Card](imagen.png)
