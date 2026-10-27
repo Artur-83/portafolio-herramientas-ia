@@ -1,5 +1,6 @@
 # Asistente Emocional Universitario
 
+Cuenta de GitHuB: @Artur-83
   
 
 > Resolvemos la falta de acceso inmediato a herramientas de autorreflexión y detección temprana de crisis emocionales para jóvenes universitarios con altos niveles de estrés.
